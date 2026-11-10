@@ -1,0 +1,9 @@
+{
+  "name": "VALAM",
+  "description": "Emergency Response & Resource Management System connecting citizens and government authorities.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
